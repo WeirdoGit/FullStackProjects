@@ -1,2 +1,2 @@
 # FullStackProjects
-These git repository contains projects from full stack java class.
+This git repository contains projects from full stack java class.
