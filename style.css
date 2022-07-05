@@ -1,0 +1,13 @@
+body{
+    background-color: white;
+}
+#header{
+    text-align: center;
+    color: rgb(8, 121, 40);
+}
+#container{
+    width: 800px;
+    background-color: white;
+    margin-top: auto;
+    margin-bottom: auto;
+}
